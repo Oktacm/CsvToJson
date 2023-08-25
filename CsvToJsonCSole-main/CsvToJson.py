@@ -5,6 +5,7 @@ from tkinter import filedialog
 from tkinter import messagebox
 
 class CsvToJsonConverter:
+    
     def __init__(self, master):
         self.master = master
         master.title("CSV to JSON Converter")
