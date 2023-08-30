@@ -1,6 +1,7 @@
 #  **CSV to JSON Converter** 
 _with a wonderful GUI_
 
+ONLY FOR CYBERSOLE
 
 
 **Important:**
